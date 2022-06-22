@@ -1,0 +1,23 @@
+{
+  "name": "bot_developer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "botVendas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-jesus/botTelegram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-jesus/botTelegram/issues"
+  },
+  "homepage": "https://github.com/marcos-jesus/botTelegram#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
+}
